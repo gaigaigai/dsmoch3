@@ -2,4 +2,3 @@ pandas
 PuLP
 streamlit
 japanize-matplotlib
-distutils
