@@ -1,4 +1,4 @@
 pandas
 PuLP
-streamlit==1.38.0
-japanize_matplotlib==0.5.2  # または、最新バージョン
+streamlit
+japanize-matplotlib
