@@ -1,5 +1,4 @@
 pandas
 PuLP
-streamlit
-japanize_matplotlib>=0.5.2  # 例: 最新バージョンを指定
-distutils
+streamlit==1.38.0
+japanize_matplotlib>=0.5.2
